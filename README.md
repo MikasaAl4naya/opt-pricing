@@ -4,7 +4,7 @@
 
 ## Стек
 - Python 3.10+
-- Только стандартная библиотека (`asyncio`, `decimal`, `unittest`)
+- Только стандартные библиотеки (`asyncio`, `decimal`, `unittest`)
 
 ## Запуск примера
 ```bash
